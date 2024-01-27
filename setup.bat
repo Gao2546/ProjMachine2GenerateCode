@@ -1,3 +1,4 @@
+set PATH=%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;%PATH%
 mkdir pyenv
 cd pyenv
 python -m venv pytorch
