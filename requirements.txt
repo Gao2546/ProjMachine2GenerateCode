@@ -19,7 +19,6 @@ requests-html
 requests-toolbelt
 scikit-learn
 scipy
-sympy
 torch
 tqdm
 undetected-chromedriver
