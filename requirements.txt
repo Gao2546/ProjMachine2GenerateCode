@@ -17,7 +17,6 @@ Pillow
 requests
 requests-html
 requests-toolbelt
-scikit-learn
 torch
 tqdm
 undetected-chromedriver
