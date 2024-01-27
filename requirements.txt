@@ -18,7 +18,6 @@ requests
 requests-html
 requests-toolbelt
 scikit-learn
-scipy
 torch
 tqdm
 undetected-chromedriver
