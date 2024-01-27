@@ -14,6 +14,12 @@ numpy
 opencv-python
 pandas
 Pillow
+requests
+requests-html
+requests-toolbelt
+scikit-learn
+scipy
+sympy
 torch
 tqdm
 undetected-chromedriver
