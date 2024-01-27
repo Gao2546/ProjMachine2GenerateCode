@@ -2,5 +2,5 @@ mkdir pyenv
 cd pyenv
 python -m venv pytorch
 cd ..
-./pyenv/pytorch/Scripts/activate
-pip install -r requirements.txt
+"./pyenv/pytorch/Scripts/pip" install --upgrade pip
+"./pyenv/pytorch/Scripts/pip" install -r requirements.txt
