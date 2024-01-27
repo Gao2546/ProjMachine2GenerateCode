@@ -15,8 +15,6 @@ opencv-python
 pandas
 Pillow
 requests
-requests-html
-requests-toolbelt
 torch
 tqdm
 undetected-chromedriver
