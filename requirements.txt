@@ -24,3 +24,6 @@ torch
 tqdm
 undetected-chromedriver
 urllib3
+selenium
+webdriver_manager
+selenium_stealth
