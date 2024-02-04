@@ -27,3 +27,4 @@ urllib3
 selenium
 webdriver_manager
 selenium_stealth
+torchtext
