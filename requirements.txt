@@ -28,3 +28,4 @@ selenium
 webdriver_manager
 selenium_stealth
 torchtext
+spacy
